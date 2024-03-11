@@ -1,0 +1,81 @@
+﻿Civil Disorder Category,Property Crime,Violent Crime,Hate Crime,US House,US Senate,US President,Personal Consumption,Consumer Sentiment,Unemployment Rate
+Riot,,,,US House - Republican,US Senate - Republican,US President - Democrat,,,
+Incident,,,,US House - Republican,US Senate - Republican,US President - Democrat,,,
+Incident,,,,US House - Republican,US Senate - Republican,US President - Republican,,,
+Riot,,,,US House - Republican,US Senate - Republican,US President - Republican,,,
+Protest,,,,US House - Republican,US Senate - Republican,US President - Republican,,,
+Riot,,,,US House - Republican,US Senate - Republican,US President - Republican,Personal Consumption - Decrease,,
+Incident,,,,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Decrease,,
+Protest,,,,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Decrease,,
+Riot,,,,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Decrease,,
+Protest,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,,
+Incident,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Decrease,,
+Riot,,,,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,,
+Incident,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,,
+Protest,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Protest,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Incident,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Incident,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Incident,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,
+Protest,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,
+Incident,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,
+Protest,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,
+Protest,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,
+Incident,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,
+Riot,,,,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,
+Riot,,,,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,
+Riot,,,,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Incident,,,,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Protest,Property Crime - Increase,Violent Crime - Increase,,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Riot,Property Crime - Increase,Violent Crime - Decrease,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Riot,Property Crime - Increase,Violent Crime - Increase,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Incident,Property Crime - Increase,Violent Crime - Increase,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,
+Riot,Property Crime - Decrease,Violent Crime - Increase,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Uncertain,
+Riot,Property Crime - Increase,Violent Crime - Increase,,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Incident,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Decrease,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Incident,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Incident,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Increase,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Increase
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Increase
+Protest,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Increase
+Incident,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Minor Decrease,US House - Republican,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Minor Decrease,US House - Republican,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Minor Increase,US House - Republican,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Incident,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Decrease,US House - Democrat,US Senate - Democrat,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Increase
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Decrease,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Protest,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Decrease,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Decrease,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Protest,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Minor Increase,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Incident,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Minor Increase,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Decrease,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Incident,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Minor Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Incident,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Major Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Major Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Major Increase,US House - Republican,US Senate - Republican,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Republican,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Increase,Consumer Sentiment - Optimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Moderate Increase,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Riot,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Moderate Increase,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Incident,Property Crime - Decrease,Violent Crime - Increase,Hate Crime - Moderate Increase,US House - Democrat,US Senate - Republican,US President - Republican,Personal Consumption - Decrease,Consumer Sentiment - Pessimistic,Unemployment Rate - Increase
+Incident,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Riot,Property Crime - Decrease,Violent Crime - Decrease,Hate Crime - Moderate Increase,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Protest,Property Crime - Increase,Violent Crime - Decrease,Hate Crime - Minor Increase,US House - Democrat,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Protest,,,,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Riot,,,,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Incident,,,,US House - Republican,US Senate - Democrat,US President - Democrat,Personal Consumption - Increase,Consumer Sentiment - Pessimistic,Unemployment Rate - Decrease
+Protest,,,,US House - Republican,US Senate - Democrat,US President - Democrat,,,
