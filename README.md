@@ -7,6 +7,8 @@ _Revised Project Proposal_ (filename - ProjectProposal_Revised.docx)
 
 _R Source Code_ (filename - civil_disorder_dataset_code.r)
 
+_R Source Code with Output_ (filename - civil disorder dataset code with output)
+
 _Project Dataset_ (filename - civil_disorder_dataset.csv)
 
 **Final Presentation** can be found at https://youtu.be/8KbSy9dhnWY
